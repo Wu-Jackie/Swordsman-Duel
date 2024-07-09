@@ -1,0 +1,8 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/Input",
+    "pages/Introduction",
+    "pages/Show"
+  ]
+}
