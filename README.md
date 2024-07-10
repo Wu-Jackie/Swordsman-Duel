@@ -26,8 +26,8 @@
 - 运行图片
 
 <div>
-    <img align="left" src="./README/Index.png" alt="Index" width="45%" />
-    <img align="right" src="./README/Introduction.png" alt="Introduction" width="45%" />
-    <img align="left" src="./README/Input.png" alt="Input" width="45%" />
-    <img align="right" src="./README/Show.png" alt="Show" width="45%" />
+    <img align="left" src="./README/Index.png" alt="Index" width="40%" />
+    <img align="right" src="./README/Introduction.png" alt="Introduction" width="40%" />
+    <img align="left" src="./README/Input.png" alt="Input" width="40%" />
+    <img align="right" src="./README/Show.png" alt="Show" width="40%" />
 </div>
